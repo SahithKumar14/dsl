@@ -1,0 +1,8 @@
+com/apiGenerator/controller/ApiGeneratorController.class
+com/apiGenerator/service/CodeGeneratorService.class
+com/apiGenerator/model/ApiSpecification.class
+com/apiGenerator/validator/JsonValidator.class
+com/apiGenerator/service/SpringBootCodeGenerator.class
+com/apiGenerator/util/ZipUtility.class
+com/apiGenerator/Application.class
+com/apiGenerator/service/FlaskCodeGenerator.class
